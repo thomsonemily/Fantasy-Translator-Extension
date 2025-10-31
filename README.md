@@ -4,4 +4,4 @@ A fantasy-themed translator that role-plays your messages or auto-generates repl
 
 Link to download (available on Mozilla Firefox only): https://addons.mozilla.org/en-US/firefox/addon/rifft-fantasy-translator/
 
-Note: This extension was never promoted - only created (with the help of ChatGPT) and tested by me. It worked as intended, but we decided not to pursue it. It currently is not working, likely due to changes on Railway. 
+Note: This extension was never promoted - only created (with the help of ChatGPT) and tested by me. It worked as intended, but we decided not to pursue it. It currently is not working due to the free trial end on Railway. 
